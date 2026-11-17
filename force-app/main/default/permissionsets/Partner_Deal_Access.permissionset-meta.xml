@@ -7,11 +7,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Partner_Deal__c.Deal_Stage__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Partner_Deal__c.Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
